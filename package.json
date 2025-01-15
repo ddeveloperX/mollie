@@ -21,6 +21,7 @@
   "homepage": "https://github.com/ddeveloperX/mollie#readme",
   "description": "",
   "dependencies": {
+    "@mollie/api-client": "^4.1.0",
     "axios": "^1.7.9",
     "ejs": "^3.1.10",
     "express": "^4.21.2"
